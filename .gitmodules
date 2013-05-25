@@ -1,0 +1,12 @@
+[submodule "alfred2-workflow-help"]
+	path = alfred2-workflow-help
+	url = https://github.com/shawnrice/alfred2-workflow-help.git
+[submodule "alfred2-workflow-remove-dup-applescript-dicts"]
+	path = alfred2-workflow-remove-dup-applescript-dicts
+	url = https://github.com/shawnrice/alfred2-workflow-remove-dup-applescript-dicts.git
+[submodule "alfred-2-caffeinate-workflow"]
+	path = alfred-2-caffeinate-workflow
+	url = https://github.com/shawnrice/alfred-2-caffeinate-workflow.git
+[submodule "alfred2-workflow-toggle-caffeine"]
+	path = alfred2-workflow-toggle-caffeine
+	url = https://github.com/shawnrice/alfred2-workflow-toggle-caffeine.git
